@@ -29,11 +29,8 @@
 
 var rules = {
 	
- ],
-  "~*x is it lit? ~*y": [	
-   "Or nah."
-	
-	
+ 
+   
   "~*x hello ~*y": [
     "How do you do. Please state your problem."
   ],
@@ -61,6 +58,9 @@ var rules = {
     "Why do you recall ~y right now?",
     "What in the present situation reminds you of ~y?",
     "What is the connection between me and ~y?",
+    ],
+  "~*x is it lit? ~*y": [	
+   "Or nah."
   ],
   "~*x do you remember ~*y": [
     "Did you think I would forget ~y?",
