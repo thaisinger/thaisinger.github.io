@@ -28,6 +28,12 @@
  */
 
 var rules = {
+	
+ ],
+  "~*x is it lit? ~*y": [	
+   "Or nah."
+	
+	
   "~*x hello ~*y": [
     "How do you do. Please state your problem."
   ],
