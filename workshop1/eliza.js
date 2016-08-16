@@ -60,7 +60,7 @@ var rules = {
     "What is the connection between me and ~y?",
     ],
   "~*x is it lit? ~*y": [	
-   "Or nah."
+   "Or nah.",
   ],
   "~*x do you remember ~*y": [
     "Did you think I would forget ~y?",
